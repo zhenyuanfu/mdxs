@@ -1,1 +1,7 @@
-my updated file contents
+{
+  "git": {
+    "deploymentEnabled": {
+      "main": false
+    }
+  }
+}
